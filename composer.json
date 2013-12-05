@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Luknei\\gallery": "src/"
+            "Luknei\\Gallery": "src/"
         }
     },
     "minimum-stability": "dev"
