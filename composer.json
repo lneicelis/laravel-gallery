@@ -13,9 +13,10 @@
         "imagine/imagine": "~0.5.0"
     },
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-0": {
+            "Luknei\\Gallery": "src/Luknei/Gallery",
+            "Luknei\\Breadcrumbs": "src/Luknei/Breadcrumbs"
+        }
     },
     "minimum-stability": "dev"
 }
